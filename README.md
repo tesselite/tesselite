@@ -1,4 +1,12 @@
-How could you be champion without a single fight?
+Build your champion!
+
+Dear human, how could you become champion without a single fight?
+
+Why the paper champion always turn undeafeated champion?
+
+Why the latest version turn to be the best version?
+
+Isn't fair to start a race and IA be the judge?
 
 - 👋 Hi, I’m @tesselite
 - 👀 I’m interested in building next generation software deployment tool
